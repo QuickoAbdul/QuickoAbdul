@@ -2,6 +2,7 @@
 <h3 align="center">In search of the limit of development</h3>
 
 - 📫 How to reach me **quickoabdul@gmail.com**
+- Working currently on an AI EHMAN
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
