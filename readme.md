@@ -3,6 +3,7 @@
 
 - 📫 How to reach me **quickoabdul@gmail.com**
 - Working currently on an AI named Ehman
+- Learn currently React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
