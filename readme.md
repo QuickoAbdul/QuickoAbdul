@@ -2,7 +2,7 @@
 <h3 align="center">In search of the limit of development </h3>
 
 - Working currently on an AI named Ehman
-- Learn currently React
+- Learn currently React and React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
