@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul rahman</h1>
 <h3 align="center">In search of the limit of development  </h3> 
 
-- Working currently on an AI named Ehman
-- Learn currently React and Angular
-
+- Learn currently React and VueJs
+- Old Portfolio : https://quickoabdul.github.io/
 <h3 align="left">Connect with me : </h3>
 <p align="left">
 </p>
