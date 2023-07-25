@@ -2,6 +2,7 @@
 <h3 align="center">In search of the limit of development  </h3> 
 
 - Learn currently React and VueJs
+- New Portfolio : https://portfolio-abdulrahman.netlify.app
 - Old Portfolio : https://quickoabdul.github.io/
 <h3 align="left">Connect with me : </h3>
 <p align="left">
