@@ -3,7 +3,7 @@
 
 - Learn currently React and NodeJS
 - New Portfolio : https://portfolio-abdulrahman.com
-- Old Portfolio : https://quickoabdul.github.io/
+- Old Portfolio : https://quickoabdul.github.io/ 
 <h3 align="left"> Connect with me : </h3>
 <p align="left">
 </p>
