@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul rahman</h1>
 <h3 align="center">In search of the limit of development</h3>  
 
-- Learn currently React and NodeJS
+- Learn currently VueJs, NodeJS, Flutter, FireBase
 - New Portfolio : https://portfolio-abdulrahman.com
 - Old Portfolio : https://quickoabdul.github.io/ 
 <h3 align="left"> Connect with me : </h3>
